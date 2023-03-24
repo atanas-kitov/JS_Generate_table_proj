@@ -1,0 +1,20 @@
+/*Font Awesome 4*/
+@import url('font-awesome.css');
+
+/*Archivo*/
+@font-face {
+    font-family: 'archivo';
+    src: url('../fonts/archivo/archivo-variablefont_wdthwght-webfont.woff2') format('woff2'),
+         url('../fonts/archivo/archivo-variablefont_wdthwght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*Roboto*/
+@font-face {
+    font-family: 'roboto';
+    src: url('../fonts/roboto/roboto-regular-webfont.woff2') format('woff2'),
+         url('../fonts/roboto/roboto-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

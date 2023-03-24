@@ -1,0 +1,19 @@
+table, th, td {
+    border: 1px solid #000;
+    border-collapse: separate;
+}
+
+thead {
+    font-weight: bolder;
+    background-color: #ddd;
+}
+
+th,td {
+    padding: 5px;
+    vertical-align: middle;
+}
+
+table {
+    padding: 5px;
+    margin: 20px 0 0 20px;
+}
